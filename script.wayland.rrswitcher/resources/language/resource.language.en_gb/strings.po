@@ -48,9 +48,9 @@ msgid "Switch to HDR mode for HDR content"
 msgstr "Switch to HDR mode for HDR content"
 
 msgctxt "#90010"
-msgid "Do not change the refresh rate for short videos"
-msgstr "Do not change the refresh rate for short videos"
+msgid "Ignore short videos"
+msgstr "Ignore short videos"
 
 msgctxt "#90011"
-msgid "max video duration (in seconds) to be considered a short video"
-msgstr "max video duration (in seconds) to be considered a short video"
+msgid "max duration (in seconds) of a short video"
+msgstr "max duration (in seconds) of a short video"
